@@ -35,6 +35,3 @@
   <a href = "mailto:wedson.lopesgomes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   <a href = "https://www.linkedin.com/in/wedgomes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-
-![Snake animation](https://github.com/wedgomes/wedgomes/blob/output/github-contribution-grid-snake.svg)
-![snake animation](https://github.com/wedgomes/wedgomes/blob/output/github-contribution-grid-snake2.svg)
