@@ -1,5 +1,6 @@
 ## Opa! Eu sou o Wédson Gomes 👍
 
+## 🎲 Dados
 <div>
   <a href="https://github.com/wedgomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wedgomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -25,10 +26,9 @@
   <img aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
   <img aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-  
 </div>
 
-## Entre em contato!
+## 📬 Entre em contato!
 
 <div>
   <a href = "mailto:wedson_mxt@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
