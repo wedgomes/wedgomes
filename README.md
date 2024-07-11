@@ -40,6 +40,6 @@
 
 ### 🚀 Projetos e Contribuições
 <div>
-  <!-- Aqui você pode adicionar um gráfico de contribuições -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=wedgomes&theme=github" alt="Gráfico de Atividade" />
+  <!-- Aqui está o gráfico de streak (sequência) de commits -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wedgomes&theme=dark" alt="Gráfico de Sequência de Commits" />
 </div>
