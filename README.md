@@ -22,7 +22,7 @@
 Sou um desenvolvedor focado em **soluções corporativas**. Tenho uma bagagem sólida em sistemas **ERP (TOTVS Protheus)** e estou expandindo fronteiras com o desenvolvimento Web Moderno.
 
 * 🔭 Atualmente trabalhando com desenvolvimento e sustentação de sistemas ERP.
-* 💻 Stack atual: **Java, SQL, React.js e Node.js**.
+* 💻 Stack atual: **Java, SQL, TypeScript, React.js e Node.js**.
 * 🎯 Objetivo: Criar pontes entre sistemas legados robustos e interfaces web modernas e intuitivas.
 
 ---
@@ -51,6 +51,7 @@ Organização e ferramentas que utilizo no meu dia a dia:
 
 <br>**Frontend & Web**<br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
